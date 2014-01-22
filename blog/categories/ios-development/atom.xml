@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: projekt | Hacking am Buffet]]></title>
-  <link href="http://svschannak.github.io/blog/categories/projekt/atom.xml" rel="self"/>
+  <title><![CDATA[Category: ios-development, | Hacking am Buffet]]></title>
+  <link href="http://svschannak.github.io/blog/categories/ios-development/atom.xml" rel="self"/>
   <link href="http://svschannak.github.io/"/>
   <updated>2014-01-22T23:41:05+01:00</updated>
   <id>http://svschannak.github.io/</id>
