@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Projekt | Hacking am Buffet]]></title>
+  <link href="http://svschannak.github.io/blog/categories/projekt/atom.xml" rel="self"/>
+  <link href="http://svschannak.github.io/"/>
+  <updated>2014-01-22T23:25:02+01:00</updated>
+  <id>http://svschannak.github.io/</id>
+  <author>
+    <name><![CDATA[Sven Schannak]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Das Projekt]]></title>
+    <link href="http://svschannak.github.io/blog/2014/01/04/das-projekt/"/>
+    <updated>2014-01-04T10:57:59+01:00</updated>
+    <id>http://svschannak.github.io/blog/2014/01/04/das-projekt</id>
+    <content type="html"><![CDATA[<p>Seit Jahren fange ich immer wieder mit dem selben Projekt bei neuen Frameworks oder Programmiersprachen an. Ich setze eine kleine Anwendung zur Buchungsverwaltung und zu Buchungsanfragen um. Das hat einen sehr einfachen Grund. Bei Buchungen geht es um Kommunikation, um eine konsistente Datenhaltung, eine auf hohe Erreichbarkeit optimierte Oberfläche und das Einhalten von Prozessen um zum Beispiel Doppelbuchungen zu vermeiden.</p>
+
+<p>Das bedeutet ich benötige bei allen Projekten folgende Vorraussetzungen um zu starten:</p>
+
+<ul>
+<li>Eine persistente Datenbank (PostgreSQL, SQLite etc.)</li>
+<li>Eine Möglichkeit mit der Außenwelt zu kommunizieren (Mail, Rest-API etc.)</li>
+<li>Ein Framework um eine ansprechende UI umzusetzen (z.B. Rails mit HTML, CSS, JS)</li>
+<li>Eine Art State-Machine um Prozessabläufe und die verschiedenen States integrieren zu können</li>
+</ul>
+
+
+<p>Die ersten 3 Vorraussetzungen sind unabdingbar, die 4. Vorraussetzung ist für mich wünschenswert. Für die Umsetzung werde ich neben der Sprache, das jeweils populärste Framework einsetzen zur Entwicklung von Web-/Desktop-/Mobile-Anwendungen.</p>
+
+<p>Grundlegend geht es bei der Buchungsverwaltung um 2 Probleme:</p>
+
+<ul>
+<li>Das Vermeiden von Doppelbuchungen</li>
+<li>Für bereits belegte Termine alternative Vorschläge senden</li>
+</ul>
+
+
+<p>Das erste Problem ist logisch und muss nicht weiter erklärt werden. Das 2. Problem kann etwas komplexer ausfallen. Um dieses Problem zu lösen, muss man mit Hilfe eines kleinen Datensatzes verstehen, warum jemand ein spezifisches Objekt für einen spezifischen Zeitraum gebucht hat. Hat er zum Beispiel einen Saal für 100 Personen von Donnerstag bis Samstag Abend gebucht, kann man davon ausgehen, dass dort eine Konferenz stattfindet. Also kann ich ihm einen anderen Konferenzsaal vorschlagen oder einen anderen Termin für den Saal, am besten wieder von Donnerstag bis Samstag oder von Freitag bis Sonntag. Montag bis Mittwoch wäre eher nicht so gut.</p>
+
+<p>Den Prozess habe ich versucht in der BPM-Notation darzustellen. (Verzeiht mir meinen laienhaften Versuch ;) ).</p>
+
+<p><img src="/images/das_projekt_prozessbeschreibung.jpg" alt="Der Prozess in BPMN" /></p>
+]]></content>
+  </entry>
+  
+</feed>
