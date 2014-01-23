@@ -4,7 +4,7 @@
   <title><![CDATA[Category: ios-development | Hacking am Buffet]]></title>
   <link href="http://svschannak.github.io/blog/categories/ios-development/atom.xml" rel="self"/>
   <link href="http://svschannak.github.io/"/>
-  <updated>2014-01-23T10:37:24+01:00</updated>
+  <updated>2014-01-23T10:43:47+01:00</updated>
   <id>http://svschannak.github.io/</id>
   <author>
     <name><![CDATA[Sven Schannak]]></name>
@@ -22,9 +22,9 @@
 
 <p>Es gibt sogenannte ViewController und die können ineinander verschachtelt sein. Das wirkt auf den ersten Blick sinnvoll und wenn man verstanden hat, wie man ordentlich mit XCode arbeitet, bemerkt man schnell, dass man auch so relativ sauberen Code schreibt und zum Beispiel ganze Views für ähnliche Aufgaben im selben Projekt relativ einfach wiederverwenden kann. Ungewohnt für mich ist irgendwie das fehlende Routing. Oder es gibt vielleicht doch eins, irgendwie, aber das versteckt sich vielleicht hinter der Magie von XCode.</p>
 
-<p>Ich habe es zumindestens geschafft eine App zu schreiben, die Daten in verschiedenen Typen von Views ausgeben kann und verstanden wie ein Table View Delegate genutzt wird. Ich bin eigentlich schon sehr gespannt viele neue Libraries, Tools und andere Werkzeuge kennenzulernen, weil vieles mir nach den Prinzipien von Uncle Bob in mir noch ein gewisses Unwohlsein hervorruft.</p>
+<p>Ich habe es zumindestens geschafft eine App zu schreiben, die Daten in verschiedenen Typen von Views ausgeben kann und verstanden wie ein Table View Delegate genutzt wird. Ich bin eigentlich schon sehr gespannt viele neue Libraries, Tools und andere Werkzeuge kennenzulernen, weil vieles nach den Prinzipien von Uncle Bob in mir noch ein gewisses Unwohlsein hervorruft.</p>
 
-<p>Als Nächstes ist der Kurs zum Models von Codeschool dran. Ich denke mal, das wird mich doch schon einen ganzen Schritt weiter bringen, nach dem ich den try iOS-Kurs durchhabe, der mir sehr gut gefallen hat, auch wenn leider ein ganzes Wochenende lang die Kurse nicht funktionierten, da sich bei Codeschool ein paar Mac Minis aus dem Staub gemacht haben.</p>
+<p>Als Nächstes ist der Kurs zu Models von Codeschool dran. Ich denke mal, das wird mich doch schon einen ganzen Schritt weiter bringen, nach dem ich den tryiOS-Kurs durchgezogen habe, welcher mir sehr gut gefallen hat, auch wenn leider ein ganzes Wochenende lang die Kurse nicht funktionierten, da sich bei Codeschool ein paar Mac Minis aus dem Staub gemacht hatten.</p>
 ]]></content>
   </entry>
   
