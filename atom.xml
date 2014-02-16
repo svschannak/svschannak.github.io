@@ -4,13 +4,24 @@
   <title><![CDATA[Hacking am Buffet]]></title>
   <link href="http://svschannak.github.io/atom.xml" rel="self"/>
   <link href="http://svschannak.github.io/"/>
-  <updated>2014-01-23T10:51:46+01:00</updated>
+  <updated>2014-02-16T14:10:35+01:00</updated>
   <id>http://svschannak.github.io/</id>
   <author>
     <name><![CDATA[Sven Schannak]]></name>
     
   </author>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Die letzte Woche mit Objective-C]]></title>
+    <link href="http://svschannak.github.io/blog/2014/02/16/die-letzte-woche-mit-objective-c/"/>
+    <updated>2014-02-16T14:03:26+01:00</updated>
+    <id>http://svschannak.github.io/blog/2014/02/16/die-letzte-woche-mit-objective-c</id>
+    <content type="html"><![CDATA[<p>Die erste &ldquo;Phase&rdquo; meines Vorsatzes ist jetzt vorbei. Wirklich viel habe ich nicht geschafft. Aber ich kann jetzt zumindestens die Grundlagen der Anwendungsentwicklung mit Obj-C für das IPhone besser verstehen und so auch ein bisschen besser mit Entwicklern auf diesem Gebiet kommunizieren. Ich selber werde aber lieber warten, bis wir native Apps mit HTML/JS für das IPhone entwickeln können.</p>
+
+<p>Ich konnte mich einfach nicht mit Obj-C anfreunden. Als nächste Sprache kommt Go ran. Vorher werde ich mir aber das Buch &ldquo;Weniger schlecht programmieren&rdquo; von Kathrin Passig und Johannes Jander durchlesen und mal schauen was ich noch so für schöne Sachen dazulernen kann.  Danach kommt dann das Buch &ldquo;Performante Webanwendungen&rdquo; (aus aktuellem Anlass ;)). Und dann werde ich mich intensiver mit Go auseinandersetzen. Ich bin sehr gespannt nach dem Vortrag auf der Developer Conference letztes Jahr.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Erste Fortschritte...]]></title>
