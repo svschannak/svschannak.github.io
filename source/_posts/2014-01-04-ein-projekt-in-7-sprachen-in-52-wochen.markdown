@@ -17,7 +17,7 @@ Als selbst ernannter Software-Entwickler kann es da nur um Software-Entwicklung 
 6. Node.js
 7. Java
 
-Mit 4 von diesen Programmiersprachen habe ich zwar bereits gearbeitet, aber nie in einem umfangreichen Rahmen. Um die Konzepte hinter den jeweiligen Sprachen besser verstehen zu können, werde ich jeweils eine Anwendung in diesen Sprachen umsetzen. Ob daraus eine Webanwendung oder eine Anwendung für den Desktop oder für ein Device entsteht, mache ich vom bevorzugten Einsatzfeld der jeweiligen Sprache abhängig. Am Ende soll aber immer wieder das gleiche Problem gelöst werden und der selbe Prozess abgebildet werden. In den nächsten 52 Wochen will ich nun mindestens 49 Posts an Samstagen veröffentlichen um über meine Fortschritte zu berichten.
+Mit 4 von diesen Programmiersprachen habe ich zwar bereits gearbeitet, aber nie in einem umfangreichen Rahmen. Um die Konzepte hinter den jeweiligen Sprachen besser verstehen zu können, werde ich jeweils eine Anwendung in diesen Sprachen umsetzen. Ob daraus eine Webanwendung oder eine Anwendung für den Desktop oder für ein Device entsteht, mache ich vom bevorzugten Einsatzfeld der jeweiligen Sprache abhängig. Am Ende soll aber immer wieder das gleiche Problem gelöst werden und der selbe Prozess abgebildet werden. In den nächsten 52 Wochen will ich nun ~~mindestens 49 Posts an Samstagen~~ ab und zu ein paar Posts veröffentlichen um über meine Fortschritte zu berichten.
 
 Was ich heute von den Programmiersprachen halte, will ich einfach ignorieren und ohne Vorbehalte loslegen. Ich bin extrem gespannt und hoffe extrem viel für meine tägliche Arbeit zu lernen.
 
